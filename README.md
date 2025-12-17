@@ -79,7 +79,7 @@ python3 drive_gui.py
 
 ##  **Screenshot**
 I blured some of my personal data , but this is what it looks like 
-![Screenshot](/screenshot.png)  
+![Screenshot](/pictures/screenshot.png)  
 
 
 
