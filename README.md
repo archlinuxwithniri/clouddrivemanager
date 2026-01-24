@@ -93,6 +93,7 @@ I blured some of my personal data , but this is what it looks like
 - The lobby.sh was made for debugging purpose , what it does is that its prints all rclone remote data in terminal
 - if any error that says something about gdown , install gdown , i am not sure if rclone uses gdown , it seems not,
 - i might make a release on this soon , for all os .
+- go to [Release](https://github.com/ameenhamdannediya/clouddrivemanager/releases) and downlaod the latest release adn try it yourself
  
 
 ---
